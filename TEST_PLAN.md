@@ -1,8 +1,7 @@
 TEST_PLAN.md
 
 ## Team Members:
-Camilo Castro - PO
-Rodrigo Souza - QA (Manual and Automation)
+Camilo Castro - PO and Rodrigo Souza - QA (Manual and Automation)
 
 ## Manual & Exploratory Testing:
 
